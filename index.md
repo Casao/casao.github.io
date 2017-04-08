@@ -5,7 +5,6 @@
 * [Dancer::Plugin::SecureHeaders](https://github.com/Casao/Dancer-Plugin-SecureHeaders)
 * [Dancer::Plugin::Paginate](https://github.com/Casao/Dancer-Plugin-Paginate)
 
-
 ### Contributions
 
 * [CareerBuilder Ruby API gem](https://github.com/careerbuilder/ruby-cb-api)
@@ -15,3 +14,4 @@
 
 * [Github](https://github.com/Casao)
 * [CPAN](https://metacpan.org/author/CASAO)
+* [RubyGems](https://rubygems.org/profiles/Casao)
