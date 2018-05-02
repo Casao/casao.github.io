@@ -4,6 +4,7 @@
 * [Dancer::Plugin::Queue::SQS](https://github.com/Casao/dancer-plugin-queue-sqs)
 * [Dancer::Plugin::SecureHeaders](https://github.com/Casao/Dancer-Plugin-SecureHeaders)
 * [Dancer::Plugin::Paginate](https://github.com/Casao/Dancer-Plugin-Paginate)
+* [Rspec3::Action](https://github.com/Casao/rspec-action)
 
 ### Contributions
 
